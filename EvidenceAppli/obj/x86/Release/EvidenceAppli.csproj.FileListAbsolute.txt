@@ -1,0 +1,11 @@
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\bin\x86\Release\EvidenceAppli.exe.config
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\bin\x86\Release\EvidenceAppli.exe
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\bin\x86\Release\EvidenceAppli.pdb
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\x86\Release\EvidenceAppli.csproj.ResolveComReference.cache
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\x86\Release\EvidenceAppli.MainForm.resources
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\x86\Release\EvidenceAppli.Properties.Resources.resources
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\x86\Release\EvidenceAppli.ScreenForm.resources
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\x86\Release\EvidenceAppli.csproj.GenerateResource.cache
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\x86\Release\EvidenceAppli.csproj.CoreCompileInputs.cache
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\x86\Release\EvidenceAppli.exe
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\x86\Release\EvidenceAppli.pdb

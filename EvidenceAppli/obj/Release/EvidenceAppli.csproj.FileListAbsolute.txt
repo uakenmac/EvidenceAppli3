@@ -28,3 +28,15 @@ C:\Users\ebihara\Documents\Visual Studio 2015\Projects\20180510_05_EvidenceAppli
 C:\Users\ebihara\Documents\Visual Studio 2015\Projects\20180510_05_EvidenceAppli(開発継続)\EvidenceAppli\obj\Release\EvidenceAppli.Properties.Resources.resources
 C:\Users\ebihara\Documents\Visual Studio 2015\Projects\20180510_05_EvidenceAppli(開発継続)\EvidenceAppli\obj\Release\EvidenceAppli.ScreenForm.resources
 C:\Users\ebihara\Documents\Visual Studio 2015\Projects\20180510_05_EvidenceAppli(開発継続)\EvidenceAppli\obj\Release\EvidenceAppli.csproj.GenerateResource.Cache
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\bin\Release\EvidenceAppli.exe.config
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\bin\Release\EvidenceAppli.exe
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\bin\Release\EvidenceAppli.pdb
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\Release\EvidenceAppli.csprojAssemblyReference.cache
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\Release\EvidenceAppli.csproj.ResolveComReference.cache
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\Release\EvidenceAppli.MainForm.resources
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\Release\EvidenceAppli.Properties.Resources.resources
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\Release\EvidenceAppli.ScreenForm.resources
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\Release\EvidenceAppli.csproj.GenerateResource.cache
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\Release\EvidenceAppli.csproj.CoreCompileInputs.cache
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\Release\EvidenceAppli.exe
+C:\Users\uaken\Documents\Visual Studio 2017\Projects\EvidenceAppli3\EvidenceAppli\obj\Release\EvidenceAppli.pdb
